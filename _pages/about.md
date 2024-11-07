@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-A master’s student at the entomology department. I work at the Krishnan’s lab. We do pesticide toxicity studies, risk assessment and use adverse outcome pathway to understand the effect of pesticides. I undertake toxicity bioassays and residue analysis for samples taking from the field.
+A master’s student at the entomology department. I work at the Krishnan’s lab. We do pesticide toxicity studies, risk assessment and use adverse outcome pathway to understand the effect of pesticides. I undertake toxicity bioassays and residue analysis for samples taking from the field. I generate dose-response curves and assess foliar risk.
